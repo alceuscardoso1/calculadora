@@ -9,4 +9,6 @@ Console.Write("Terceiro número: ");
 var n3 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine();
+Console.WriteLine($"Resultado é: {n1 + n2 + n3}");
 Console.WriteLine($"Resultado é: {n1 - n2 - n3}");
+Console.WriteLine($"Resultado é: {n1 / n2 / n3}");
