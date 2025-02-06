@@ -7,4 +7,5 @@ Console.Write("Segundo número: ");
 var n2 = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine();
-Console.WriteLine($"Resultado é: {n1 + n2}");
+Console.WriteLine($"Soma.....: {n1 + n2}");
+Console.WriteLine($"Subtração: {n1 - n2}");
